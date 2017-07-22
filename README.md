@@ -34,4 +34,4 @@ Enter the same secret key and the message will be decrypted ;)..
 
 Decrypted Message :: 
 
-![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/10.jpg "Optional title")
+![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/10.JPG "Optional title")
