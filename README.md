@@ -31,3 +31,7 @@ Enter the same secret key and the message will be decrypted ;)..
 
 
 ![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/8.JPG "Optional title")
+
+Decrypted Message :: 
+
+![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/10.jpg "Optional title")
