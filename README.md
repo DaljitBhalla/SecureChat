@@ -29,6 +29,6 @@ Received the encrypted message The application will automatically come into acti
 Enter the same secret key and the message will be decrypted ;)..
 
 
-![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/r.png"Optional title")
+![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/r.png "Optional title")
 
 
