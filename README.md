@@ -7,12 +7,14 @@ It requires a  16 character shared key between both sender and receipent already
 Now Enter the secret key , message and the receipent's phone number : 
 
 
-![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/q.PNG "Optional title")
+![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/q.png "Optional title")
 
 
 Tap Submit Button : 
 
 
+
+![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/w.png "Optional title")
 
 
 Application Will go in background 
@@ -22,11 +24,11 @@ Application Will go in background
 Received the encrypted message The application will automatically come into activity and u can  read the encrypted message.
 
 
-![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/e.PNG "Optional title")
+![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/e.png "Optional title")
 
 Enter the same secret key and the message will be decrypted ;)..
 
 
-![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/r.PNG"Optional title")
+![Alt text](https://github.com/DaljitBhalla/SecureChat/blob/master/screenshots/r.png"Optional title")
 
 
